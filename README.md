@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao meu perfil
+## Bem-vindo(a) ao meu perfil!
 
  <div>
    <a href="https://github.com/Donlongaray">
@@ -14,7 +14,7 @@
  
 <br>
  
-### Redes Sociais!
+### Redes Sociais
  
 <div> 
   <a href="https://www.linkedin.com/in/william-longaray-563aa2301" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
